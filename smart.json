@@ -1,8 +1,8 @@
 {
     "name": "server-aggregation",
     "description": "Mongodb aggregation supports for meteor",
-    "homepage": "https://github.com/possibilities/meteor-cool-pkg",
+    "homepage": "https://github.com/particle4dev/server-aggregation",
     "author": "Le Hoang (https://github.com/particle4dev)",
     "version": "0.1.0",
-    "git": "https://github.com/possibilities/meteor-cool-pkg.git"
+    "git": "https://github.com/particle4dev/server-aggregation.git"
 }
