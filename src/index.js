@@ -1,3 +1,6 @@
+var path = Npm.require('path');
+var Future = Npm.require(path.join('fibers', 'future'));
+
 aggregates = (function () {
     var mongoDriver = MongoInternals.defaultRemoteCollectionDriver().mongo;
     return function (collectionName, pipeline) {

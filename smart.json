@@ -3,6 +3,6 @@
     "description": "Mongodb aggregation supports for meteor",
     "homepage": "https://github.com/particle4dev/server-aggregation",
     "author": "Le Hoang (https://github.com/particle4dev)",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "git": "https://github.com/particle4dev/server-aggregation.git"
 }
